@@ -2,7 +2,6 @@
 .ipynb_checkpoints
 __pycache__
 data/model.pth
-pytorch.ipynb
 test.ipynb
 training_MNIST.ipynb
 do_prezki.docx
